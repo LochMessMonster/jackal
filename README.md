@@ -1,2 +1,2 @@
-"# jackal" 
+# jackal
 Discord bot 
