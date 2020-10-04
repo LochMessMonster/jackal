@@ -15,8 +15,6 @@ public class Main {
                 event.getChannel().sendMessage("Pong!");
             }
         });
-
-        System.out.println("Invite both with url: " + api.createBotInvite());
     }
 
 
