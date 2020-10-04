@@ -19,6 +19,7 @@ public class Main {
 
         // Add listeners
         api.addMessageCreateListener(new Info());
+        api.addMessageCreateListener(new Dice());
 
         // ping-pong
         api.addMessageCreateListener(event -> {
